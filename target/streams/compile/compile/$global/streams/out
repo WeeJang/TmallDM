@@ -1,0 +1,57 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserFeature.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Main.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/FeatureEngine.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserMap.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Utils.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Main.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserFeature.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/FeatureEngine.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserMap.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Utils.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Main.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserFeature.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/FeatureEngine.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserMap.scala, /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Utils.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 8 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 8 Scala sources to /home/jangwee/workspace/wp_scala/TmallDM/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 43d120eb, interfacing (CompilerInterface) with Scala compiler version 2.11.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/local/jdk1.7.0_75/jre/lib/resources.jar:/usr/local/jdk1.7.0_75/jre/lib/rt.jar:/usr/local/jdk1.7.0_75/jre/lib/sunrsasign.jar:/usr/local/jdk1.7.0_75/jre/lib/jsse.jar:/usr/local/jdk1.7.0_75/jre/lib/jce.jar:/usr/local/jdk1.7.0_75/jre/lib/charsets.jar:/usr/local/jdk1.7.0_75/jre/lib/jfr.jar:/usr/local/jdk1.7.0_75/jre/classes:/home/jangwee/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/jangwee/workspace/wp_scala/TmallDM/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 7.364997626 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, periodNum, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, ItemFeature, <init>, ==, clone, toString, basicItemFeature, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Main.scala: Set(ItemFeature, <init>, toString, basicItemFeature)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserFeature.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserFeature.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserFeature.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserFeature.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserFeature.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, UserFeature, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Utils.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Utils.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Utils.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Utils.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Utils.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	optionSetAdd, splitDate, indexedDate, tuple4Add.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/UserMap.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemFeature.scala: Set(optionSetAdd, indexedDate, tuple4Add)[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/ItemMap.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Main.scala)[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/jangwee/workspace/wp_scala/TmallDM/src/main/scala/commlab/weejang/Main.scala)[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
